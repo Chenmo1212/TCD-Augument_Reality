@@ -1,0 +1,2 @@
+1. AR-based puzzle game: You can create an AR game that uses real-world objects as part of the gameplay. For example, the game can use AR to place virtual objects on a table, and the user must move or manipulate them to solve puzzles.
+2. AR-based animal encyclopedia: You can create an AR app that allows users to learn about different animals by superimposing 3D models of them in the user's environment. For example, the app can use AR to display a virtual lion, and the user can learn about its habitat, behavior, and other characteristics.

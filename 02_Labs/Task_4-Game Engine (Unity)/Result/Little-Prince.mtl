@@ -1,0 +1,12 @@
+# Blender 3.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl TextureAtlas_1001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/OneDrive - 吐司工作室/Files/006_TCD/05_lectures/08_AR(Augment_Reality)/02_Labs/chenmo/edf4b12d2fb74967d8b5e5ad5ec89665b4e3b303/texture_1001.jpg

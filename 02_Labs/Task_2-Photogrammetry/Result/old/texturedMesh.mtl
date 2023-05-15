@@ -1,0 +1,661 @@
+# 
+# Wavefront material file
+# Created with AliceVision
+# 
+
+newmtl TextureAtlas_1001
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1001.jpg
+newmtl TextureAtlas_1002
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1002.jpg
+newmtl TextureAtlas_1003
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1003.jpg
+newmtl TextureAtlas_1004
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1004.jpg
+newmtl TextureAtlas_1005
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1005.jpg
+newmtl TextureAtlas_1006
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1006.jpg
+newmtl TextureAtlas_1007
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1007.jpg
+newmtl TextureAtlas_1008
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1008.jpg
+newmtl TextureAtlas_1009
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1009.jpg
+newmtl TextureAtlas_1010
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1010.jpg
+newmtl TextureAtlas_1011
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1011.jpg
+newmtl TextureAtlas_1012
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1012.jpg
+newmtl TextureAtlas_1013
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1013.jpg
+newmtl TextureAtlas_1014
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1014.jpg
+newmtl TextureAtlas_1015
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1015.jpg
+newmtl TextureAtlas_1016
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1016.jpg
+newmtl TextureAtlas_1017
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1017.jpg
+newmtl TextureAtlas_1018
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1018.jpg
+newmtl TextureAtlas_1019
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1019.jpg
+newmtl TextureAtlas_1020
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1020.jpg
+newmtl TextureAtlas_1021
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1021.jpg
+newmtl TextureAtlas_1022
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1022.jpg
+newmtl TextureAtlas_1023
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1023.jpg
+newmtl TextureAtlas_1024
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1024.jpg
+newmtl TextureAtlas_1025
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1025.jpg
+newmtl TextureAtlas_1026
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1026.jpg
+newmtl TextureAtlas_1027
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1027.jpg
+newmtl TextureAtlas_1028
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1028.jpg
+newmtl TextureAtlas_1029
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1029.jpg
+newmtl TextureAtlas_1030
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1030.jpg
+newmtl TextureAtlas_1031
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1031.jpg
+newmtl TextureAtlas_1032
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1032.jpg
+newmtl TextureAtlas_1033
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1033.jpg
+newmtl TextureAtlas_1034
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1034.jpg
+newmtl TextureAtlas_1035
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1035.jpg
+newmtl TextureAtlas_1036
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1036.jpg
+newmtl TextureAtlas_1037
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1037.jpg
+newmtl TextureAtlas_1038
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1038.jpg
+newmtl TextureAtlas_1039
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1039.jpg
+newmtl TextureAtlas_1040
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1040.jpg
+newmtl TextureAtlas_1041
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1041.jpg
+newmtl TextureAtlas_1042
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1042.jpg
+newmtl TextureAtlas_1043
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1043.jpg
+newmtl TextureAtlas_1044
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1044.jpg
+newmtl TextureAtlas_1045
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1045.jpg
+newmtl TextureAtlas_1046
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1046.jpg
+newmtl TextureAtlas_1047
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1047.jpg
+newmtl TextureAtlas_1048
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1048.jpg
+newmtl TextureAtlas_1049
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1049.jpg
+newmtl TextureAtlas_1050
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1050.jpg
+newmtl TextureAtlas_1051
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1051.jpg
+newmtl TextureAtlas_1052
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1052.jpg
+newmtl TextureAtlas_1053
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1053.jpg
+newmtl TextureAtlas_1054
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1054.jpg
+newmtl TextureAtlas_1055
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1055.jpg
+newmtl TextureAtlas_1056
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1056.jpg
+newmtl TextureAtlas_1057
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1057.jpg
+newmtl TextureAtlas_1058
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1058.jpg
+newmtl TextureAtlas_1059
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1059.jpg
+newmtl TextureAtlas_1060
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1060.jpg
+newmtl TextureAtlas_1061
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1061.jpg
+newmtl TextureAtlas_1062
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1062.jpg
+newmtl TextureAtlas_1063
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1063.jpg
+newmtl TextureAtlas_1064
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1064.jpg
+newmtl TextureAtlas_1065
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1065.jpg
+newmtl TextureAtlas_1066
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1066.jpg
+newmtl TextureAtlas_1067
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1067.jpg
+newmtl TextureAtlas_1068
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1068.jpg
+newmtl TextureAtlas_1069
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1069.jpg
+newmtl TextureAtlas_1070
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1070.jpg
+newmtl TextureAtlas_1071
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1071.jpg
+newmtl TextureAtlas_1072
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1072.jpg
+newmtl TextureAtlas_1073
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1073.jpg
+newmtl TextureAtlas_1074
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1074.jpg
+newmtl TextureAtlas_1075
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1075.jpg
+newmtl TextureAtlas_1076
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1076.jpg
+newmtl TextureAtlas_1077
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1077.jpg
+newmtl TextureAtlas_1078
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1078.jpg
+newmtl TextureAtlas_1079
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1079.jpg
+newmtl TextureAtlas_1080
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1080.jpg
+newmtl TextureAtlas_1081
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1081.jpg
+newmtl TextureAtlas_1082
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  0.0
+illum 2
+map_Kd texture_1082.jpg
